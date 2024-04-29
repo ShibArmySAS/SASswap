@@ -1,72 +1,47 @@
 {
   "name": "Secret & Strong",
-  "logoURI": "",
+  "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/ShibArmyStrong.png",
   "keywords": [
-    "audited",
-    "verified",
-    "special tokens"
+    "ShibArmyStrong",
+    "defi"
   ],
-  "tags": {
-    "ecosystem": {
-      "name": "Ecosystem",
-      "description": "Shiba inu Ecosystem"
-    },
-    "primecoin": {
-      "name": "Prime",
-      "description": "Prime Coin"
-    }
-  },
-  "timestamp": "2024-04-29T00:00:00+00:00",
+  "timestamp": "2024-04-29T00:00:00.000+00:00",
   "tokens": [
     {
       "chainId": 109,
       "address": "0xC76F4c819D820369Fb2d7C1531aB3Bb18e6fE8d8",
-      "symbol": "WBONE",
       "name": "Wrapped BONE",
+      "symbol": "WBONE",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/0xC76F4c819D820369Fb2d7C1531aB3Bb18e6fE8d8.svg",
-      "tags": [
-        "ecosystem"
-      ]
+      "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/0xC76F4c819D820369Fb2d7C1531aB3Bb18e6fE8d8.svg"
     },
     {
       "chainId": 109,
       "address": "0x495eea66B0f8b636D441dC6a98d8F5C3D455C4c0",
-      "symbol": "SHIB",
       "name": "SHIBA INU",
+      "symbol": "SHIB",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/0x495eea66B0f8b636D441dC6a98d8F5C3D455C4c0.svg",
-      "tags": [
-        "ecosystem"
-      ]
+      "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/0x495eea66B0f8b636D441dC6a98d8F5C3D455C4c0.svg"
     },
     {
       "chainId": 109,
       "address": "0x65218A41Fb92637254B4f8c97448d3dF343A3064",
-      "symbol": "LEASH",
       "name": "LEASH",
+      "symbol": "LEASH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/0x65218A41Fb92637254B4f8c97448d3dF343A3064.svg",
-      "tags": [
-        "ecosystem"
-      ]
+      "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/0x65218A41Fb92637254B4f8c97448d3dF343A3064.svg"
+    },
+    {
+      "chainId": 109,
+      "address": "0x8ed7d143ef452316ab1123d28ab302dc3b80d3ce",
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/0x8ed7d143ef452316ab1123d28ab302dc3b80d3ce.svg"
     }
   ],
-  "tokenMap": {
-    "109_0x8ed7d143ef452316ab1123d28ab302dc3b80d3ce": {
-      "chainId": 1,
-      "address": "0x8ed7d143ef452316ab1123d28ab302dc3b80d3ce",
-      "symbol": "WETH",
-      "name": "Wrapped ETH",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/0x8ed7d143ef452316ab1123d28ab302dc3b80d3ce.svg",
-      "tags": [
-        "primecoin"
-      ]
-    }
-  }, 
   "version": {
-    "major": 1,
+    "major": 2,
     "minor": 0,
     "patch": 0
   }

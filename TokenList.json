@@ -8,19 +8,19 @@
   ],
   "tags": {
     "ecosystem": {
-      "name": "ecosystem",
+      "name": "Ecosystem",
       "description": "Shiba inu Ecosystem"
     },
     "sasgem": {
-      "name": "SASGEM PROJECT",
+      "name": "SASGEM",
       "description": ""
     },
     "stablecoin": {
-      "name": "Stable Coin",
+      "name": "Stable",
       "description": "Stable Coin"
     },
     "primecoin": {
-      "name": "Prime Coin",
+      "name": "Prime",
       "description": "Prime Coin"
     }
   },

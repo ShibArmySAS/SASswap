@@ -38,6 +38,14 @@
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/0x8ed7d143ef452316ab1123d28ab302dc3b80d3ce.svg"
+    },
+    {
+      "chainId": 109,
+      "address": "0xaB082b8ad96c7f47ED70ED971Ce2116469954cFB",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/0xaB082b8ad96c7f47ED70ED971Ce2116469954cFB.svg"
     }
   ],
   "version": {

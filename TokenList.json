@@ -59,7 +59,7 @@
       "symbol": "WETH",
       "name": "Wrapped ETH",
       "decimals": 18,
-      "logoURI": "",
+      "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/0x8ed7d143ef452316ab1123d28ab302dc3b80d3ce.svg",
       "tags": [
         "primecoin"
       ]

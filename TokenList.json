@@ -48,9 +48,5 @@
       "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/0xaB082b8ad96c7f47ED70ED971Ce2116469954cFB.svg"
     }
   ],
-  "version": {
-    "major": 2,
-    "minor": 0,
-    "patch": 0
-  }
+
 }

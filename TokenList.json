@@ -50,7 +50,7 @@
     {
       "chainId": 109,
       "address": "0xD0cC6627fb2c2d2f4293AbD5e11889d687825f54",
-      "name": "1000X SASGEM",
+      "name": "SASGEM 1000X",
       "symbol": "1000X",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/ShibArmyStrong.svg"
@@ -66,7 +66,7 @@
     {
       "chainId": 109,
       "address": "0x38c47f03e0bbc88d7cF864414C64cC8B76E2dF72",
-      "name": "998X SASGEM",
+      "name": "SASGEM 998X",
       "symbol": "998X",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/ShibArmyStrong.svg"

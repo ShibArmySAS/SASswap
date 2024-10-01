@@ -1,5 +1,5 @@
 {
-  "name": "SecretAndStrong",
+  "name": "Secret - Strong",
   "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/ShibArmyStrong.png",
   "keywords": [
     "ShibArmyStrong",
@@ -46,6 +46,118 @@
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/0xaB082b8ad96c7f47ED70ED971Ce2116469954cFB.svg"
+    },
+    {
+      "chainId": 109,
+      "address": "0xD0cC6627fb2c2d2f4293AbD5e11889d687825f54",
+      "name": "1000X (SASGEM)",
+      "symbol": "1000X",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/ShibArmyStrong.svg"
+    },
+    {
+      "chainId": 109,
+      "address": "0x3645aB9dbb7628E688Cf11a2B2356aFd3b89Fc52",
+      "name": "999X (SASGEM)",
+      "symbol": "999X",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/ShibArmyStrong.svg"
+    },
+    {
+      "chainId": 109,
+      "address": "0x38c47f03e0bbc88d7cF864414C64cC8B76E2dF72",
+      "name": "998X (SASGEM)",
+      "symbol": "998X",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/ShibArmyStrong.svg"
+    },
+    {
+      "chainId": 109,
+      "address": "0x896a0487EA41e7aeb5C6D706ddd2830C7f7fD15c",
+      "name": "997X (SASGEM)",
+      "symbol": "997X",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/ShibArmyStrong.svg"
+    },
+    {
+      "chainId": 109,
+      "address": "0x38622CEd4a2DAEa3345153B0a159F6C918bF8ccD",
+      "name": "996X (SASGEM)",
+      "symbol": "996X",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/ShibArmyStrong.svg"
+    },
+    {
+      "chainId": 109,
+      "address": "0x9a9cdfa4A78f0F54F312DECB030DDFDbd21aD8c5",
+      "name": "995X (SASGEM)",
+      "symbol": "995X",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/ShibArmyStrong.svg"
+    },
+    {
+      "chainId": 109,
+      "address": "0xc1f0E746B5AAefBBe2E99aB08897766Ae20F6236",
+      "name": "994X (SASGEM)",
+      "symbol": "994X",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/ShibArmyStrong.svg"
+    },
+    {
+      "chainId": 109,
+      "address": "0x2aB554E73E74A6b7E9555Bb33aA5c7A57bb17BF3",
+      "name": "993X (SASGEM)",
+      "symbol": "993X",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/ShibArmyStrong.svg"
+    },
+    {
+      "chainId": 109,
+      "address": "0xF0e348a0cBf1276E1676B23E05Cf97a020B7EeB5",
+      "name": "992X (SASGEM)",
+      "symbol": "992X",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/ShibArmyStrong.svg"
+    },
+    {
+      "chainId": 109,
+      "address": "0x68Abcf81Ad1f36316883Ac5DcF3Ea16105fEcC89",
+      "name": "991X (SASGEM)",
+      "symbol": "991X",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/ShibArmyStrong.svg"
+    },
+    {
+      "chainId": 109,
+      "address": "0x93ffe7b31d2e3cae91356b0206db3d338a48ec7e",
+      "name": "990X (SASGEM)",
+      "symbol": "990X",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/ShibArmyStrong.svg"
+    },
+    {
+      "chainId": 109,
+      "address": "0x1be62534f12976d24e5db536c79e5108578f6dea",
+      "name": "989X (SASGEM)",
+      "symbol": "989X",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/ShibArmyStrong.svg"
+    },
+    {
+      "chainId": 109,
+      "address": "0x560d9e3c39798647d41e6f667c232d01643debb1",
+      "name": "988X (SASGEM)",
+      "symbol": "988X",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/ShibArmyStrong.svg"
+    },
+    {
+      "chainId": 109,
+      "address": "0x04dd02ef0334906f01d387b741df81070127ac52",
+      "name": "987X (SASGEM)",
+      "symbol": "987X",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/ShibArmyStrong.svg"
     }
   ],
   "version": {

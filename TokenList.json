@@ -46,14 +46,6 @@
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/0xaB082b8ad96c7f47ED70ED971Ce2116469954cFB.svg"
-    },
-    {
-      "chainId": 109,
-      "address": "0xD0cC6627fb2c2d2f4293AbD5e11889d687825f54",
-      "name": "SASGEM 1000X",
-      "symbol": "1000X",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/ShibArmyStrong.svg"
     }
   ],
   "version": {

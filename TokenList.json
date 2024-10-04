@@ -50,7 +50,7 @@
     {
       "chainId": 109,
       "address": "0xD0cC6627fb2c2d2f4293AbD5e11889d687825f54",
-      "name": "SASGEM 1000X",
+      "name": "1000X SASGEM",
       "symbol": "1000X",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/ShibArmyStrong.svg"
@@ -66,7 +66,7 @@
     {
       "chainId": 109,
       "address": "0x38c47f03e0bbc88d7cF864414C64cC8B76E2dF72",
-      "name": "SASGEM 998X",
+      "name": "998X SASGEM",
       "symbol": "998X",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/ShibArmyStrong.svg"
@@ -156,6 +156,126 @@
       "address": "0x04dd02ef0334906f01d387b741df81070127ac52",
       "name": "987X SASGEM",
       "symbol": "987X",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/ShibArmyStrong.svg"
+    },
+    {
+      "chainId": 109,
+      "address": "0x166ae4ad9ddca5ce366d499ffb8c98fd7e761d3c",
+      "name": "986X SASGEM",
+      "symbol": "986X",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/ShibArmyStrong.svg"
+    },
+    {
+      "chainId": 109,
+      "address": "0x31d2fa098b70ea688b6e97c09142af2ff39bbdb2",
+      "name": "985X SASGEM",
+      "symbol": "985X",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/ShibArmyStrong.svg"
+    },
+    {
+      "chainId": 109,
+      "address": "0x3633e5488c2d683dd795e28f9fd943819515ca52",
+      "name": "984X SASGEM",
+      "symbol": "984X",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/ShibArmyStrong.svg"
+    },
+    {
+      "chainId": 109,
+      "address": "0xd87816d68175b844223afe43cfffcc6e988a89f2",
+      "name": "983X SASGEM",
+      "symbol": "983X",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/ShibArmyStrong.svg"
+    },
+    {
+      "chainId": 109,
+      "address": "0x4230c6209a4725af63bfc73ccbf99a22b9e85eb4",
+      "name": "982X SASGEM",
+      "symbol": "982X",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/ShibArmyStrong.svg"
+    },
+    {
+      "chainId": 109,
+      "address": "0x05446d46121ea0709581140612a1a4c49fc5ae86",
+      "name": "981X SASGEM",
+      "symbol": "981X",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/ShibArmyStrong.svg"
+    },
+    {
+      "chainId": 109,
+      "address": "0x1909bc9a0b6e983370cf3d67c558e4c8f32b9798",
+      "name": "980X SASGEM",
+      "symbol": "980X",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/ShibArmyStrong.svg"
+    },
+    {
+      "chainId": 109,
+      "address": "0x1e628d0f43010d51c82851fac766b7be126813c8",
+      "name": "979X SASGEM",
+      "symbol": "979X",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/ShibArmyStrong.svg"
+    },
+    {
+      "chainId": 109,
+      "address": "0x55ba2bcf312961d556e21e56277e8948d40494cc",
+      "name": "978X SASGEM",
+      "symbol": "978X",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/ShibArmyStrong.svg"
+    },
+    {
+      "chainId": 109,
+      "address": "0x2ba41273083fe970f4c564ac2b6254d5f2f50e18",
+      "name": "977X SASGEM",
+      "symbol": "977X",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/ShibArmyStrong.svg"
+    },
+    {
+      "chainId": 109,
+      "address": "0x1e9fe76c57b67b5c487e681e1bcba2230a6d4b96",
+      "name": "976X SASGEM",
+      "symbol": "976X",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/ShibArmyStrong.svg"
+    },
+    {
+      "chainId": 109,
+      "address": "0xdd111cd510d3a424e5af498e90edc41b9db7feaf",
+      "name": "975X SASGEM",
+      "symbol": "975X",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/ShibArmyStrong.svg"
+    },
+    {
+      "chainId": 109,
+      "address": "0x9f76c5f8cbdc91aa92ae1dd080c043a4e88a6e64",
+      "name": "974X SASGEM",
+      "symbol": "974X",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/ShibArmyStrong.svg"
+    },
+    {
+      "chainId": 109,
+      "address": "0xad26b8d4472b39d1e0af53a2b5cf0508e21a2b3b",
+      "name": "973X SASGEM",
+      "symbol": "973X",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/ShibArmyStrong.svg"
+    },
+    {
+      "chainId": 109,
+      "address": "0xc9f74b89e48d187221d240cdef3254c8cc6897ca",
+      "name": "972X SASGEM",
+      "symbol": "972X",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/ShibArmyStrong.svg"
     }

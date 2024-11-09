@@ -366,6 +366,7 @@
       "symbol": "961X",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/ShibArmyStrong.svg"
+<<<<<<< HEAD
     },
     {
       "chainId": 109,
@@ -414,12 +415,18 @@
       "symbol": "955X",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/ShibArmyStrong.svg"
+=======
+>>>>>>> f57ac6652fe3824edbad2a94952b5deb5f8a8217
     }
 
   ],
   "version": {
     "major": 1,
     "minor": 0,
+<<<<<<< HEAD
     "patch": 3
+=======
+    "patch": 2
+>>>>>>> f57ac6652fe3824edbad2a94952b5deb5f8a8217
   }
 }

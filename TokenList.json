@@ -5,7 +5,7 @@
     "ShibArmyStrong",
     "defi"
   ],
-  "timestamp": "2024-10-02T00:00:00.000+00:00",
+  "timestamp": "2024-12-04T00:00:00.000+00:00",
   "tokens": [
     {
       "chainId": 109,
@@ -414,11 +414,51 @@
       "symbol": "955X",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/ShibArmyStrong.svg"
+    },
+    {
+      "chainId": 109,
+      "address": "0x4992fA9E61F628Da505a880E0a0E2224Bd041475",
+      "name": "954X SASGEM",
+      "symbol": "954X",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/ShibArmyStrong.svg"
+    },
+    {
+      "chainId": 109,
+      "address": "0x3E5A045a7fcFbe4F96b58A30891FBc98AE9c0D26",
+      "name": "953X SASGEM",
+      "symbol": "953X",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/ShibArmyStrong.svg"
+    },
+    {
+      "chainId": 109,
+      "address": "0xA11e25cc6087Fd2F3474D17A519EEEA1a579b239",
+      "name": "952X SASGEM",
+      "symbol": "952X",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/ShibArmyStrong.svg"
+    },
+    {
+      "chainId": 109,
+      "address": "0xA239a4C84f575b4c54867746A4EFa438F9B65064",
+      "name": "951X SASGEM",
+      "symbol": "951X",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/ShibArmyStrong.svg"
+    },
+    {
+      "chainId": 109,
+      "address": "0xd7507EF26fdC788005C937B0A11F55CfA87c42e9",
+      "name": "950X SASGEM",
+      "symbol": "950X",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ShibArmySAS/SASswap/main/icon/ShibArmyStrong.svg"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 3
+    "patch": 4
   }
 }
